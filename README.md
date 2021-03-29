@@ -1,4 +1,5 @@
 - 👋 Hi, I’m TheRealOXY
-- 👀 I’m interested in computer science, programming.
+- 👀 I’m interested in computer science and programming.
+- 🎓 I’m still a student.
 - 🌱 I’m currently learning Python, Untiy.
 - 📫 IG: *@oxy.js* 6))
