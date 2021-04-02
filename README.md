@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Python, Unity.
 - 📫 IG: _@oxy.js_ :3
 
-![rainbowPls](https://i.imgur.com/vHAbKUz.gif)
+![Star!](https://i.imgur.com/vHAbKUz.gif)
