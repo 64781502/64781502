@@ -5,3 +5,5 @@
 - 📫 IG: _@oxy.js_ :3
 
 ![Star!](https://i.imgur.com/vHAbKUz.gif)
+
+[fork my repository](https://github.com/user/repository/fork)
