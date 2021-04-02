@@ -2,4 +2,4 @@
 - 👀 I’m interested in computer science and programming.
 - 🎓 I’m still a student.
 - 🌱 I’m currently learning Python, Unity.
-- 📫 IG: *@oxy.js* 6))
+- 📫 IG: **@oxy.js** 6))
