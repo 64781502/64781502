@@ -5,4 +5,4 @@
 - 📫 IG: _@oxy.js_ :3
 
 [![Star!](https://i.imgur.com/vHAbKUz.gif)](https://github.com/TheRealOXY)
-[![Star!](https://i.imgur.com/5O9CjB4.gif)](https://github.com/TheRealOXY)
+[![Spin!](https://i.imgur.com/5O9CjB4.gif)](https://github.com/TheRealOXY)
