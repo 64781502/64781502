@@ -6,3 +6,4 @@
 
 [![Star!](https://i.imgur.com/vHAbKUz.gif)](https://github.com/TheRealOXY)
 [![Spin!](https://i.imgur.com/5O9CjB4.gif)](https://github.com/TheRealOXY)
+[![Spin!](https://media.tenor.com/images/c727df2c342cbc735e76ea9fd73cb3a7/tenor.gif)](https://github.com/TheRealOXY)
