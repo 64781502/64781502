@@ -1,5 +1,4 @@
 - 👋 Hi, I’m TheRealOXY
-- 👀 I’m interested in computer science and programming.
 - 🎓 I’m still a student.
 - 🌱 I’m currently learning Python, Unity.
 - 📫 Discord: **TheRealOXY#5665**
