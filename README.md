@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning Python, Unity.
 - 📫 Discord: **TheRealOXY#5665**
 
+[![IG!](https://i.imgur.com/GXTnUuR.png)](https://instagram.com/oxy.js)
+[![Repo!](https://i.imgur.com/rvaM1TS.png)](https://github.com/TheRealOXY?tab=repositories)
 [![Star!](https://i.imgur.com/vHAbKUz.gif)](https://github.com/TheRealOXY)
 [![Spin!](https://i.imgur.com/5O9CjB4.gif)](https://github.com/TheRealOXY)
