@@ -6,4 +6,4 @@
 [![Spin!](https://i.imgur.com/uNcpAec.gif)](https://github.com/TheRealOXY)
 [![Repo!](https://i.imgur.com/rvaM1TS.png)](https://github.com/TheRealOXY?tab=repositories)
 
-![Counter](https://komarev.com/ghpvc/TheRealOXY)
+![Counter](https://komarev.com/ghpvc/?TheRealOXY)
