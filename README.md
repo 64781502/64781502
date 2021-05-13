@@ -18,8 +18,8 @@
 | Assembly | Old, symbolic address language | 3/10
 | BashScript | Probably the most simple programming language i know, extra poins for Windows compatibility | 4/10
 | VBScript | MYDOOM | 4/10
-| HTML | Is this even a language? | 2/10
-| CSS | Is this even a language? | 2/10
+| HTML | Is this even a language? | ?/10
+| CSS | Is this even a language? | ?/10
 ###### Don't take theese seriously please
 
 ### *[PEPPY](https://github.com/peppy) HIRE ME*
