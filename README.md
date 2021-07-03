@@ -7,6 +7,6 @@
 <details>
   <summary>Extra:</summary>
   
-![AAAAAAA](https://i.imgur.com/DKPkh0J.gif)
+![<3](https://i.imgur.com/vs07S1d.gif)
 
 </details>
