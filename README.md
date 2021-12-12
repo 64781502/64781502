@@ -8,5 +8,10 @@
   <summary>Extra:</summary>
   
 ![<3](https://i.imgur.com/vs07S1d.gif)
+</details>
+  
+<details>
+  <summary>(super) idols:</summary>
 
+###### [blaze.fn](https://www.instagram.com/blaze.fn)
 </details>
