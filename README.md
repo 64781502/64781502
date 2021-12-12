@@ -14,4 +14,10 @@
   <summary>(super) idols:</summary>
 
 ###### [blaze.fn](https://www.instagram.com/blaze.fn)
+###### [Crystallinqq](https://github.com/Crystallinqq)
+###### [Madmeg](https://github.com/Madmegsox1)
+###### [Dani](https://github.com/DaniDevy)
+###### [ppy](https://github.com/peppy)
+###### [travis](https://github.com/TrvsF)
+###### [PolyMars](https://github.com/PolyMarsDev)
 </details>
