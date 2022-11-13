@@ -1,7 +1,6 @@
 # katowice
 
-#### :)
-##### [w](https://www.youtube.com/watch?v=Jai6La30Dsw)
+#### [w](https://www.youtube.com/watch?v=Jai6La30Dsw)
 #### discord: *Katowice#7694*
 
 [![darkosu](https://i.imgur.com/V4CzxIn.png)](https://i.imgur.com/V4CzxIn.png)
